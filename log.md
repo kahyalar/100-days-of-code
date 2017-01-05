@@ -31,3 +31,14 @@
 **Link to works:** 
 [selenium-screenshot-java](https://github.com/kahyalar/selenium-screenshot-java)
 [SeleniumBrowserConfigurator](https://github.com/kahyalar/SeleniumBrowserConfigurator)
+
+### Day 5: January 05, 2017
+
+**Today's Progress**: Added Firefox Support, static methods to SeleniumBrowserConfigurator and a new release to that ! 
+
+**Thoughts:** I'll build a library called "Kahium" for all of my tools in a same package. But i need more man to show my tools and my ideas. It's good for me but i don't know the others. :(
+
+**TODO:** Nothing for today ! Yay !
+
+**Link to work:** 
+[SeleniumBrowserConfigurator](https://github.com/kahyalar/SeleniumBrowserConfigurator)
