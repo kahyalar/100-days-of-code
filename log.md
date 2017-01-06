@@ -42,3 +42,14 @@
 
 **Link to work:** 
 [SeleniumBrowserConfigurator](https://github.com/kahyalar/SeleniumBrowserConfigurator)
+
+### Day 6: January 06, 2017
+
+**Today's Progress**: Pull request to my school project called "baun". Refactor the smoke test.
+
+**Thoughts:** I don't know how to reach my followers or help needed peoples with my tools. But i believe someone is reading this!
+
+**TODO:** Nothing for now !
+
+**Link to work:** 
+[baun](https://github.com/kahyalar/baun)
