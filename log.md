@@ -53,3 +53,15 @@
 
 **Link to work:** 
 [baun](https://github.com/kahyalar/baun)
+
+
+### Day 6: January 06, 2017
+
+**Today's Progress**: I just added my old project filmotoro to github. Maybe someone try to use it. It's written with node.js. My one and only first project with node and javascript too.
+
+**Thoughts:** I really like java to code with.
+
+**TODO:** Selenium Stuffs.
+
+**Link to work:** 
+[Filmotoro](https://github.com/kahyalar/Filmotoro)
